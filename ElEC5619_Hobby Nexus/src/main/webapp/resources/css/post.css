@@ -1,0 +1,41 @@
+.w {
+	
+	position:relative;
+	left:50%;
+	width:1200px;
+	margin-left:-600px;
+	display: block;
+}
+
+
+
+
+.article_box {
+	padding: 25px 15px 15px;
+	border-color:#ddd;
+	border-style:solid;
+	border-width:1px;
+	width:100%;
+	max-width:1200px;
+
+}
+
+
+.comment_box {
+	border-color:#ddd;
+	border-style:solid;
+	border-width:1px;
+	padding: 25px 15px 15px;
+	width:100%;
+	max-width:1200px;
+}
+
+
+.submit_box {
+	border-color:#ddd;
+	border-style:solid;
+	border-width:1px;
+	padding: 25px 15px 15px;
+    width:100%;
+	max-width:1200px;
+}
